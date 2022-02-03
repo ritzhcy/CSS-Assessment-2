@@ -1,0 +1,284 @@
+.box
+{
+    border: 4px solid greenyellow;
+    height: 2150px;
+    background-image: url(image.jpg);
+}
+.box1
+{
+    border: 8px solid red;
+    border-radius: 40px;
+    background-color: black;
+    font-style: italic;
+    color: white;
+    height: 130px;
+    width: 350px;
+    margin: 10px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 5px;
+}
+.box2
+{
+    border: 8px solid red;
+    border-radius: 40px;
+    background-color: black;
+    font-style: italic;
+    color: white;
+    height: 60px;
+    width: 470px;
+    margin: 10px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    position: absolute;
+    top: 30px;
+    left: 290px;
+}
+.box3
+{
+    border: 8px solid red;
+    border-radius: 40px;
+    background-color: black;
+    font-style: italic;
+    color: white;
+    height: 180px;
+    width: 420px;
+    margin-left: 600px;
+    font-size: 26px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    position: absolute;
+    top: 20px;
+    left: 290px;
+}
+.box4
+{
+    border: 8px solid grey;
+    background-color: seagreen;
+    height: 320px;
+    width: 320px;
+    box-sizing: content-box;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    position: absolute;
+    top: 450px;
+    left: 80px;
+    border-radius: 50%;
+    padding-top: 35px;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+.a
+{
+    width: 347px;
+    position: absolute;
+    left: 5px;
+}
+.b
+{
+    width: 355px;
+    position: absolute;
+    left: 1px;
+}
+.box5
+{
+    border: 8px dashed red;
+    height: 750px;
+    width: 400px;
+    text-align: center;
+    position: absolute;
+    left: 700px;
+    top: 300px;
+    font-size: 20px;
+    color: rgb(197, 62, 62);
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#fname
+{
+    text-align: center;
+}
+#lname
+{
+    text-align: center;
+}
+#age
+{
+    text-align: center;
+}
+#email
+{
+    text-align: center;
+}
+#dob
+{
+    text-align: center;
+}
+.section3
+{
+    border: 8px solid red;
+    border-radius: 40px;
+    background-color: black;   
+    color: white;
+    height: 30px;
+    width: 470px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+    left: 380px;
+    top: 1100px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.c 
+{
+    position: absolute;
+    top: 1210px;
+    width: 98%
+}
+.section4
+{
+    height:800px;
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 1070px;
+    margin-left: 60px;
+}
+.d
+{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.e 
+{
+    width: 331px;
+    position: absolute;
+    left: 105px;
+}
+.f
+{
+    width: 331px;
+    position: absolute;
+    left: 505px;
+}
+.g
+{
+    width: 331px;
+    position: absolute;
+    left: 905px;
+}
+.h
+{
+    width: 331px;
+    position: absolute;
+    left: 105px;
+    top: 1750px;
+}
+.i
+{
+    width: 331px;
+    position: absolute;
+    left: 505px;
+    top: 1750px;
+}
+.j
+{
+    width: 331px;
+    position: absolute;
+    left: 905px;
+    top: 1795px;
+}
+.box6
+{
+    border: 3px solid green;
+    border-radius: 30px;
+    height: 230px;
+    width: 310px;
+    margin: 2rem;
+    text-align: center;
+    font-size: 18px;
+    color: indigo;
+    background-color: turquoise;
+    padding: 10px;
+}
+.box7
+{
+    border: 3px solid green;
+    border-radius: 30px;
+    height: 230px;
+    width: 310px;
+    margin: 2rem;
+    text-align: center;
+    font-size: 18px;
+    color: indigo;
+    background-color: turquoise;
+    padding: 10px;
+    float: right;
+}
+.box8
+{
+    border: 3px solid green;
+    border-radius: 30px;
+    height: 230px;
+    width: 310px;
+    margin: 2rem;
+    text-align: center;
+    font-size: 18px;
+    color: indigo;
+    background-color: turquoise;
+    padding: 10px;
+    float: right;
+}
+.box9
+{
+    border: 3px solid green;
+    border-radius: 30px;
+    height: 230px;
+    width: 310px;
+    margin: 2rem;
+    text-align: center;
+    font-size: 18px;
+    color: indigo;
+    background-color: turquoise;
+    padding: 10px;
+    float: right;
+}
+.box10
+{
+    border: 3px solid green;
+    border-radius: 30px;
+    height: 230px;
+    width: 310px;
+    margin: 2rem;
+    text-align: center;
+    font-size: 18px;
+    color: indigo;
+    background-color: turquoise;
+    padding: 10px;
+    float: right;
+}
+.box11
+{
+    border: 3px solid green;
+    border-radius: 30px;
+    height: 265px;
+    width: 310px;
+    margin: 2rem;
+    text-align: center;
+    font-size: 18px;
+    color: indigo;
+    background-color: turquoise;
+    padding: 10px;
+    float: right;
+}
